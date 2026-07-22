@@ -21,7 +21,6 @@ I build practical tools for coding agents: agent workflows, knowledge systems, O
 
 - 🧠 **[loreloop](https://github.com/zhangguiping-xydt/loreloop)** — A knowledge-governed cockpit for coding agents, from repository understanding to verifiable results.
 - 🧰 **[starry-agent](https://github.com/zhangguiping-xydt/starry-agent)** — Skills, tools, and products that turn software systems into reusable agent capabilities.
-- 🦞 **[lobster](https://github.com/zhangguiping-xydt/lobster)** — An OpenClaw-native workflow shell for typed, local-first automations.
 
 ## What I'm Building
 
