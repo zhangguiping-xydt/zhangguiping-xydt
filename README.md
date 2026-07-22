@@ -26,7 +26,6 @@ I work on agent workflows, knowledge systems, OpenClaw tooling, and developer in
 - 🛤️ **[proxyline](https://github.com/openclaw/proxyline)** — 1 pull request
 - 🦞 **[lobster](https://github.com/openclaw/lobster)** — 1 pull request
 - 🧵 **[acpx](https://github.com/openclaw/acpx)** — 1 pull request
-- ✨ **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — 1 pull request
 
 ## Connect
 
