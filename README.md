@@ -21,7 +21,12 @@ I work on agent workflows, knowledge systems, OpenClaw tooling, and developer in
 
 ## Contributing to
 
-- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, any OS and platform.
+- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — 312 pull requests
+- 🧹 **[ClawSweeper](https://github.com/openclaw/clawsweeper)** — 4 pull requests
+- 🛤️ **[proxyline](https://github.com/openclaw/proxyline)** — 1 pull request
+- 🦞 **[lobster](https://github.com/openclaw/lobster)** — 1 pull request
+- 🧵 **[acpx](https://github.com/openclaw/acpx)** — 1 pull request
+- ✨ **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — 1 pull request
 
 ## Connect
 
