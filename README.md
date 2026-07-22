@@ -41,6 +41,10 @@ I build practical tools for coding agents: agent workflows, knowledge systems, O
 
 - 🛤️ **[proxyline](https://github.com/zhangguiping-xydt/proxyline)** — Process-global proxy routing for Node.js.
 
+## Contributing to
+
+- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Contributing to the open-source personal AI assistant across platforms.
+
 ## Now
 
 Exploring agent memory, knowledge-governed engineering, and reliable local-first automation.
