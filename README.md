@@ -18,7 +18,6 @@ I work on agent workflows, knowledge systems, OpenClaw tooling, and developer in
 - 🧠 **[loreloop](https://github.com/zhangguiping-xydt/loreloop)** — Knowledge-governed workflows for coding agents.
 - 🧰 **[starry-agent](https://github.com/zhangguiping-xydt/starry-agent)** — Reusable skills and tools for agent capabilities.
 - 📊 **[chart-plot](https://github.com/zhangguiping-xydt/chart-plot)** — An OpenClaw chart-generation plugin.
-- 🛤️ **[proxyline](https://github.com/zhangguiping-xydt/proxyline)** — Process-global proxy routing for Node.js.
 
 ## Contributing to
 
